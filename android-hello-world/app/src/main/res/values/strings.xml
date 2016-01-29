@@ -3,4 +3,6 @@
   <string name="hello_world">Hello world!</string>
   <string name="say_bye">Say bye!</string>
   <string name="bye">Goodbye!</string>
+  <string name="action_picture">Picture</string>
+  <string name="click_on_image">Click on the picture</string>
 </resources>
